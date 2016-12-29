@@ -16,7 +16,7 @@ Black Beatles by Rae Sremmurd:<br>
 ![Black Beatles](images/blackbeatles.png)
 
 ##Requirements:
-- PIL (installable through pip)
+- pillow (installable through pip)
 - [python-midi](https://github.com/vishnubob/python-midi)
 
 ##Installation:
